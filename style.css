@@ -21,12 +21,12 @@ body {
   }
 
   .floater {
-    margin-top: 50vh;
+    vertical-align: middle;
   }
 
   .nav {
     float: right;
-    width: 45%;
+    width: 15%;
   }
 
   .dotter {
@@ -44,7 +44,7 @@ body {
 
   .topnav a{
     display: block;
-    width: 25%;
+    width: 100%;
     margin-right: 0px;
     color: #f2f2f2;
     text-align: center;
