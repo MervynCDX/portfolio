@@ -20,20 +20,28 @@ body {
     font-size: 20px;
   }
 
-  .floater {
-    display: inline-block;
-    vertical-align: middle;
-    height: 100%;
-  }
-
   .nav {
     float: right;
     width: 15%;
   }
 
+  .nav::before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+  }
+
   .dotter {
     float: left;
     width: 45%;
+  }
+
+  .dotter::before {
+    content: '';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
   }
 
   .topnav {
