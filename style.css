@@ -17,13 +17,14 @@ body {
   .topnav {
     overflow: hidden;
     background-color: #ffffff00;
-    width:30%;
+    width:90%;
   }
   
   .topnav a {
     display: block;
     width: 20%;
     margin-right: 5;
+    margin-left: auto;
     margin-top: auto;
     margin-bottom: auto;
     color: #f2f2f2;
@@ -71,15 +72,12 @@ body {
     box-sizing: border-box;
   }
 
-  .dot-container {
+  .dot {
+    height: 20px;
+    width: 20px;
+    margin: 15px;
     margin-top: auto;
     margin-bottom: auto;
-
-  }
-  .dot {
-    height: 15px;
-    width: 15px;
-    margin: 5px;
     background-color: #f2f2f2;
     border-radius: 50%;
     display: block;
