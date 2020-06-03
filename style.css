@@ -22,6 +22,8 @@ body {
 
   .floater {
     float:left;
+    margin-top: auto;
+    margin-bottom: auto;
   }
 
   .nav {
@@ -36,15 +38,13 @@ body {
     overflow: hidden;
     background-color: #ffffff00;
     width:100%;
-    margin-top: auto;
-    margin-bottom: auto;
     position: fixed;
     z-index: 1;
   }
 
   .topnav a{
     display: block;
-    width: 15%;
+    width: 25%;
     margin-right: 0px;
     margin-top: auto;
     margin-bottom: auto;
