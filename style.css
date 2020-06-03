@@ -19,15 +19,19 @@ body {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
   }
+
+  .floater {
+    float:left;
+  }
+  
   .topnav {
     overflow: hidden;
     background-color: #ffffff00;
-    width:90%;
+    width:100%;
     margin-top: auto;
     margin-bottom: auto;
     position: fixed;
     z-index: 1;
-    float:left;
   }
 
   .topnav a{
@@ -75,7 +79,7 @@ body {
 
   .dot {
     height: 30px;
-    width: 20px;
+    width: 30px;
     margin: 15px;
     background-color: #f2f2f2;
     border-radius: 50%;
