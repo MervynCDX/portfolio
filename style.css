@@ -18,12 +18,14 @@ body {
     overflow: hidden;
     background-color: #ffffff00;
     width:90%;
+    margin-top: auto;
+    margin-bottom: auto;
   }
   
   .topnav a {
     display: block;
-    width: 20%;
-    margin-right: 5;
+    width: 15%;
+    margin-right: 0px;
     margin-left: auto;
     margin-top: auto;
     margin-bottom: auto;
@@ -73,11 +75,8 @@ body {
   }
 
   .dot {
-    height: 20px;
     width: 20px;
     margin: 15px;
-    margin-top: auto;
-    margin-bottom: auto;
     background-color: #f2f2f2;
     border-radius: 50%;
     display: block;
