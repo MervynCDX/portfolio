@@ -1,6 +1,8 @@
 
 body {
     background-color: rgb(250, 245, 223);
+    margin: 0px;
+    padding: 0px;
   }
   
   h1 {
@@ -8,6 +10,7 @@ body {
     color: black;
     text-align: center;
     font-size: 80px;
+    position:fixed;
   }
   
   p {
@@ -24,7 +27,13 @@ body {
     z-index: 1;
   }
   
-  .topnav a {
+  .topnav a,
+  .topnav span {
+    float:left;
+    width: 50%;
+  }
+
+  .topnav a{
     display: block;
     width: 15%;
     margin-right: 0px;
