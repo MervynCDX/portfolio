@@ -27,13 +27,13 @@ body {
   }
 
   .nav {
-    width: 50%;
-    margin-right: 5vw;
+    width: 45%;
+    margin-right: 0px;
     margin-left: auto;
   }
 
   .dotter {
-    width: 50%;
+    width: 45%;
   }
 
   .topnav {
