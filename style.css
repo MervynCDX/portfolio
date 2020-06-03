@@ -21,18 +21,16 @@ body {
   }
 
   .floater {
-    float:left;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 50vh;
   }
 
   .nav {
+    float: right;
     width: 45%;
-    margin-right: 0px;
-    margin-left: auto;
   }
 
   .dotter {
+    float: left;
     width: 45%;
   }
 
@@ -48,8 +46,6 @@ body {
     display: block;
     width: 25%;
     margin-right: 0px;
-    margin-top: auto;
-    margin-bottom: auto;
     color: #f2f2f2;
     text-align: center;
     padding: 10px;
