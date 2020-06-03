@@ -28,6 +28,8 @@ body {
 
   .nav {
     width: 50%;
+    margin-right: 5vw;
+    margin-left: auto;
   }
 
   .dotter {
