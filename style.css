@@ -23,7 +23,15 @@ body {
   .floater {
     float:left;
   }
-  
+
+  .nav {
+    width: 50%;
+  }
+
+  .dotter {
+    width: 50%;
+  }
+
   .topnav {
     overflow: hidden;
     background-color: #ffffff00;
