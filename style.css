@@ -23,6 +23,8 @@ body {
   .nav {
     float: right;
     width: 15%;
+    margin-top: auto;
+    margin-bottom: auto;
   }
 
   .nav::before {
