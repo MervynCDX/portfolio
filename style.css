@@ -40,6 +40,8 @@ body {
     width:50%;
     left: 0px;
     position: fixed;
+    margin-top: auto;
+    margin-bottom: auto;
     z-index: 1;
   }
 
@@ -61,6 +63,8 @@ body {
     width:50%;
     right: 0px;
     position: fixed;
+    margin-top: auto;
+    margin-bottom: auto;
     z-index: 1;
   }
 
